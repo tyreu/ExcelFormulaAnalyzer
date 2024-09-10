@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{4A0AE449-F50D-4B85-8B59-E7ECA48CC1B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelFormulaAnalyzer", "ConsoleApp1\ExcelFormulaAnalyzer.csproj", "{4A0AE449-F50D-4B85-8B59-E7ECA48CC1B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
