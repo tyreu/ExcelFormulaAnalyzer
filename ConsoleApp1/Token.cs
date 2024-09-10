@@ -1,4 +1,4 @@
-﻿namespace Analyzer
+﻿namespace ExcelFormulaAnalyzer
 {
     public class Token
     {
